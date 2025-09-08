@@ -65,7 +65,7 @@
                href="https://app.grinnow.com" target="_blank"
               class="ml-8 inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-primary hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary"
             >
-              시작하기
+           	    시작하기
             </a>
           </div>
           <div class="-mr-2 flex items-center md:hidden hidden">
@@ -93,27 +93,27 @@
               <h1
                 class="mb-2 text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl"
               >
-                실거래 수목시세는
+                	실거래 수목시세는
               </h1>
               <div class="flex gap-2">
                 <h1
                   class="text-4xl tracking-tight font-extrabold text-primary sm:text-5xl md:text-6xl"
                 >
-                  그린나우
+                  	그린나우
                 </h1>
                 <h1
                   class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl"
                 >
-                  에서!
+                  	에서!
                 </h1>
               </div>
               <p
                 class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0"
               >
-                그린나우는 수목 실거래 및 견적 가격 데이터를 활용해 <br />
-                정확하고 신뢰도 있는 수목 시세를 알려주는 시세 사이트 입니다.
-                <br />
-                그린나우를 통해 수목 구매 예산을 간편하게 확인하세요!
+		                그린나우는 수목 실거래 및 견적 가격 데이터를 활용해 <br />
+		                정확하고 신뢰도 있는 수목 시세를 알려주는 시세 사이트 입니다.
+               <br />
+		                그린나우를 통해 수목 구매 예산을 간편하게 확인하세요!
               </p>
               <div
                 class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
@@ -123,13 +123,13 @@
                     href="https://app.grinnow.com" target="_blank"
                     class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-blue-700 md:py-4 md:text-lg md:px-8 transition-colors"
                   >
-                    시작하기
+                   	 시작하기
                   </a>
                   <a
                     href="#features"
                     class="w-full flex items-center justify-center px-8 py-3 border border-primary text-base font-medium rounded-md text-primary bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-8 transition-colors"
                   >
-                    기능 살펴보기
+                   	 기능 살펴보기
                   </a>
                 </div>
               </div>
@@ -155,7 +155,7 @@
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold mb-4">수목 시세는 그린나우에서</h2>
           <p class="text-lg text-gray-600 mb-6">
-            실거래, 실견적 데이터를 기반으로 예산 계획을 더 쉽고 정확하게
+           	실거래, 실견적 데이터를 기반으로 예산 계획을 더 쉽고 정확하게
           </p>
         </div>
 
@@ -177,7 +177,7 @@
             </div>
             <p class="text-gray-600">거래 횟수</p>
             <p class="text-gray-400 text-xs">
-              전지역
+            	전지역
             </p>
           </div>
           <!-- 2 -->
@@ -211,12 +211,11 @@
               </h3>
               <h4 class="inline-block text-2xl font-bold text-gray-900">건</h4>
             </div>
-            </h3>
             <p class="text-gray-600">수목 시세 데이터수</p>
             <p class="text-gray-400 text-xs">누적 데이터</p>
           </div>
         </div>
-        <p class="text-center text-gray-500 text-xs mt-8">*2025년 7월 기준</p>
+        <p class="text-center text-gray-500 text-xs mt-8">*2025년 8월 기준</p>
       </div>
     </section>
 
@@ -225,10 +224,10 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center scroll-section">
           <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-            시세를 통해 수목 예산을 간편하게
+           	시세를 통해 수목 예산을 간편하게
           </h2>
           <p class="mt-4 max-w-2xl text-xl text-gray-500 mx-auto">
-            그린나우의 정확한 수목시세를 통해 수목 예산을 책정
+           	그린나우의 정확한 수목시세를 통해 수목 예산을 책정
           </p>
         </div>
 
@@ -239,17 +238,17 @@
                 <div
                   class="flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary"
                 >
-                  <i class="fas fa-solid fa-helmet-safety text-lg"></i>
+               	<img src="/img/helmet-icon.png" alt="안전모 아이콘" width="30px">
                 </div>
                 <div class="ml-4">
                   <h3 class="text-xl font-medium text-gray-700">
-                    건설사 및 조경회사
+                   	건설사 및 조경회사
                   </h3>
                   <p class="mt-2 text-base text-gray-500">
-                    조경공사에 필요한 수목 예산을 사전에 정확히 설정해야 하는
-                    건설사 및 조경회사. 일일이 나무 판매자에게 연락하지 않아도,
-                    신뢰할 수 있는 실거래 시세를 바로 확인하고 효율적인 예산
-                    수립이 가능합니다.
+			                    조경공사에 필요한 수목 예산을 사전에 정확히 설정해야 하는
+			                    건설사 및 조경회사. 일일이 나무 판매자에게 연락하지 않아도,
+			                    신뢰할 수 있는 실거래 시세를 바로 확인하고 효율적인 예산
+			                    수립이 가능합니다.
                   </p>
                 </div>
               </div>
@@ -258,16 +257,16 @@
                 <div
                   class="flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary"
                 >
-                  <i class="fas fa-solid fa-building-columns text-lg"></i>
+               		<img src="/img/institute-icon.png" alt="기관 아이콘" width="30px">
                 </div>
                 <div class="ml-4">
                   <h3 class="text-xl font-medium text-gray-700">
-                    공공기관 및 지자체
+                   	공공기관 및 지자체
                   </h3>
                   <p class="mt-2 text-base text-gray-500">
-                    녹지 조성, 공원 조성 등 조경 관련 사업을 진행하는 공공기관.
-                    투명하고 객관적인 기준으로 수목 단가를 참고하여 예산 책정 및
-                    사업 계획 수립이 가능해집니다.
+			                    녹지 조성, 공원 조성 등 조경 관련 사업을 진행하는 공공기관.
+			                    투명하고 객관적인 기준으로 수목 단가를 참고하여 예산 책정 및
+			                    사업 계획 수립이 가능해집니다.
                   </p>
                 </div>
               </div>
@@ -276,16 +275,16 @@
                 <div
                   class="flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary"
                 >
-                  <i class="fas fa-solid fa-tree text-lg"></i>
+               		<img src="/img/tree-icon.png" alt="기관 아이콘" width="30px">
                 </div>
                 <div class="ml-4">
                   <h3 class="text-xl font-medium text-gray-700">
-                    조경수 판매·구매 업체
+                   	조경수 판매·구매 업체
                   </h3>
                   <p class="mt-2 text-base text-gray-500">
-                    신뢰할 수 있는 실거래 데이터를 바탕으로 적정 가격을
-                    확인하고, 불필요한 가격 협상 없이 투명하고 합리적인 거래를
-                    할 수 있습니다.
+			                    신뢰할 수 있는 실거래 데이터를 바탕으로 적정 가격을
+			                    확인하고, 불필요한 가격 협상 없이 투명하고 합리적인 거래를
+			                    할 수 있습니다.
                   </p>
                 </div>
               </div>
@@ -304,90 +303,90 @@
         <!-- 타이틀 -->
         <div class="text-center scroll-section">
           <h2 class="text-4xl font-extrabold text-gray-900 leading-tight">
-            그린나우 시세 기능
+           	그린나우 시세 기능
           </h2>
           <p class="mt-4 text-lg text-gray-500 leading-relaxed max-w-2xl mx-auto">
-            수목 구매 및 예산책정의 최적의 도구
+           	수목 구매 및 예산책정의 최적의 도구
           </p>
         </div>
     
         <!-- 카드 리스트 -->
-        <div class="mt-20 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 scroll-section right">
+        <div class="mt-16 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 scroll-section right">
           <!-- 카드 1 -->
           <div class="feature-card bg-white p-10 rounded-xl shadow-md hover:shadow-lg transition-shadow">
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary">
-              <i class="fas fa-file-contract text-xl"></i>
+               <img src="/img/paper-icon.png" alt="서류 아이콘" width="30px">
             </div>
             <h3 class="mt-6 text-xl font-semibold text-gray-800">
-              견적 데이터를 활용한 수목시세
+       			견적 데이터를 활용한 수목시세
             </h3>
-            <p class="mt-4 text-base text-gray-600 leading-6">
-              모든 견적과 거래 이력을 바탕으로, 신뢰할 수 있는 시세 정보를 제공합니다. 투명하고 공정한 거래 문화를 지원합니다.
+            <p class="mt-4 text-base text-gray-500 leading-6">
+              	모든 견적과 거래 이력을 바탕으로, 신뢰할 수 있는 시세 정보를 제공합니다. 투명하고 공정한 거래 문화를 지원합니다.
             </p>
           </div>
     
           <!-- 카드 2 -->
           <div class="feature-card bg-white p-10 rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary">
-              <i class="fas fa-dice-d6 text-xl"></i>
+               <img src="/img/folder-icon.png" alt="폴더 아이콘" width="30px">
             </div>
             <h3 class="mt-6 text-xl font-semibold text-gray-800">
-              최근 수목 거래 데이터 제공
+             	최근 수목 거래 데이터 제공
             </h3>
-            <p class="mt-4 text-base text-gray-600 leading-6">
-              각 수목 상세페이지에서 최근 거래 데이터를 확인할 수 있어, 시장 흐름과 가격 변동을 한눈에 파악할 수 있습니다.
+            <p class="mt-4 text-base text-gray-500 leading-6">
+              	각 수목 상세페이지에서 최근 거래 데이터를 확인할 수 있어, 시장 흐름과 가격 변동을 한눈에 파악할 수 있습니다.
             </p>
           </div>
     
           <!-- 카드 3 -->
           <div class="feature-card bg-white p-10 rounded-xl shadow-md hover:shadow-lg transition-shadow">
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary">
-              <i class="fas fa-list text-xl"></i>
+               <img src="/img/document-icon.png" alt="견적 아이콘" width="30px">
             </div>
             <h3 class="mt-6 text-xl font-semibold text-gray-800">
-              규격별 세부 정보 제공
+              	규격별 세부 정보 제공
             </h3>
-            <p class="mt-4 text-base text-gray-600 leading-6">
-              수목 규격에 따라 구분된 정보와 가격, 거래 이력까지 상세하게 제공합니다. 정확하고 필요한 정보만 쉽게 찾을 수 있습니다.
+            <p class="mt-4 text-base text-gray-500 leading-6">
+             	 수목 규격에 따라 구분된 정보와 가격, 거래 이력까지 상세하게 제공합니다. 정확하고 필요한 정보만 쉽게 찾을 수 있습니다.
             </p>
           </div>
     
           <!-- 카드 4 -->
           <div class="feature-card bg-white p-10 rounded-xl shadow-md hover:shadow-lg transition-shadow">
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary">
-              <i class="fas fa-tag text-xl"></i>
+               <img src="/img/tag-icon.png" alt="태그 아이콘" width="30px">
             </div>
             <h3 class="mt-6 text-xl font-semibold text-gray-800">
-              원산지 정보 제공
+             	 원산지 정보 제공
             </h3>
-            <p class="mt-4 text-base text-gray-600 leading-6">
-              단순한 가격 정보뿐만 아니라, 수목의 원산지와 재배지 정보를 함께 제공합니다. 더 신뢰도 높은 거래와 선택을 지원합니다.
+            <p class="mt-4 text-base text-gray-500 leading-6">
+              	단순한 가격 정보뿐만 아니라, 수목의 원산지와 재배지 정보를 함께 제공합니다. 더 신뢰도 높은 거래와 선택을 지원합니다.
             </p>
           </div>
     
           <!-- 카드 5 -->
           <div class="feature-card bg-white p-10 rounded-xl shadow-md hover:shadow-lg transition-shadow">
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary">
-              <i class="fas fa-chart-line text-xl"></i>
+               <img src="/img/graph-icon.png" alt="그래프 아이콘" width="30px">
             </div>
             <h3 class="mt-6 text-xl font-semibold text-gray-800">
-              직관적인 그래프와 시각화
+              	직관적인 그래프와 시각화
             </h3>
-            <p class="mt-4 text-base text-gray-600 leading-6">
-              라인 차트, 바 차트, 원형 차트 등 다양한 그래프 형태로 데이터를 시각화하여, 복잡한 정보도 빠르게 확인할 수 있습니다.
+            <p class="mt-4 text-base text-gray-500 leading-6">
+              	라인 차트, 바 차트, 원형 차트 등 다양한 그래프 형태로 데이터를 시각화하여, 복잡한 정보도 빠르게 확인할 수 있습니다.
             </p>
           </div>
     
           <!-- 카드 6 -->
           <div class="feature-card bg-white p-10 rounded-xl shadow-md hover:shadow-lg transition-shadow">
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-blue-50 text-primary">
-              <i class="fas fa-users text-xl"></i>
+               <img src="/img/thumbs-up-icon.png" alt="엄지 아이콘" width="30px">
             </div>
             <h3 class="mt-6 text-xl font-semibold text-gray-800">
-              데이터 기반 의사결정 지원
+              	데이터 기반 의사결정 지원
             </h3>
-            <p class="mt-4 text-base text-gray-600 leading-6">
-              매출, 계약 건수, 수익성 등 주요 지표를 실시간 분석 대시보드로 제공하여 빠르고 정확한 의사결정을 도와드립니다.
+            <p class="mt-4 text-base text-gray-500 leading-6">
+              	매출, 계약 건수, 수익성 등 주요 지표를 실시간 분석 대시보드로 제공하여 빠르고 정확한 의사결정을 도와드립니다.
             </p>
           </div>
         </div>
@@ -399,10 +398,10 @@
       <div class="max-w-7xl mx-auto px-4 scroll-section sm:px-6 lg:px-8">
         <div class="text-center">
           <h2 class="text-3xl font-extrabold text-white sm:text-4xl">
-            고객들의 평가
+            	고객들의 평가
           </h2>
           <p class="mt-4 max-w-2xl text-xl text-blue-100 mx-auto">
-            그린나우를 사용하는 고객들이 남긴 솔직한 후기
+            	그린나우를 사용하는 고객들이 남긴 솔직한 후기
           </p>
         </div>
 
@@ -426,10 +425,10 @@
             </div>
             <div class="mt-4">
               <p class="text-sm text-gray-600">
-                "최근에 산벚나무 구하기가 어려웠고 왕벚나무 등 나무 시세가
-                변동함에 어려움이 있었습니다. 설계변경시 근거자료 제시가 어려워
-                그린나우의 시세 정보를 통해 발주처에 DB를 보고 하였고 이를 통해
-                업무를 효율적으로 할 수 있었습니다. "
+               "최근에 산벚나무 구하기가 어려웠고 왕벚나무 등 나무 시세가
+		                변동함에 어려움이 있었습니다. 설계변경시 근거자료 제시가 어려워
+		                그린나우의 시세 정보를 통해 발주처에 DB를 보고 하였고 이를 통해
+		                업무를 효율적으로 할 수 있었습니다. "
               </p>
             </div>
             <div class="mt-4 flex">
@@ -458,10 +457,10 @@
             </div>
             <div class="mt-4">
               <p class="text-sm text-gray-600">
-                "밭떼기 구매가 많아서 매번 하는 수목매매계약서 작성이 전자화가
-                되어 편리하게 사용하고 있습니다. 공사 수주 후 변동하는
-                수목시세 정보를 빠르게 확인할 수 있어 그린나우 서비스를 사용하고
-                있습니다."
+               "밭떼기 구매가 많아서 매번 하는 수목매매계약서 작성이 전자화가
+		                되어 편리하게 사용하고 있습니다. 공사 수주 후 변동하는
+		                수목시세 정보를 빠르게 확인할 수 있어 그린나우 서비스를 사용하고
+		                있습니다."
               </p>
             </div>
             <div class="mt-4 flex">
@@ -490,9 +489,9 @@
             </div>
             <div class="mt-4">
               <p class="text-sm text-gray-600">
-                "설계변경이 잦은 조경업무 특성상 조경업체가 설계변경으로
-                요청하는 수목에 대한 단가를 확인할 방법이 없었는데, 그린나우
-                시세 정보를 통해 금액산정의 합당한 근거를 확인 할 수 있습니다."
+               "설계변경이 잦은 조경업무 특성상 조경업체가 설계변경으로
+		                요청하는 수목에 대한 단가를 확인할 방법이 없었는데, 그린나우
+		                시세 정보를 통해 금액산정의 합당한 근거를 확인 할 수 있습니다."
               </p>
             </div>
             <div class="mt-4 flex">
@@ -514,17 +513,17 @@
         <div class="flex-1 text-center lg:text-left">
           <p class="text-primary font-semibold mb-2">지금 바로 시작하세요</p>
           <h2 class="text-4xl lg:text-5xl font-bold leading-tight mb-6">
-            수목 시세, <br class="hidden lg:block" /> 빠르고 간편하게 확인!
+           	 수목 시세, <br class="hidden lg:block" /> 빠르고 간편하게 확인!
           </h2>
           <p class="text-lg text-gray-600 mb-8">
-            실거래 및 견적 데이터를 기반으로 예산 계획을 <br class="hidden lg:block" />
-            더 쉽고 정확하게 설정할 수 있습니다.
+           	실거래 및 견적 데이터를 기반으로 예산 계획을 <br class="hidden lg:block" />
+           	더 쉽고 정확하게 설정할 수 있습니다.
           </p>
           <a
             href="https://app.grinnow.com" target="_blank"
             class="group inline-flex items-center bg-[#115FFB] text-white font-semibold px-8 py-4 rounded-lg shadow-lg hover:bg-[#0e4ed1] transition duration-300"
           >
-            시작하기
+           	시작하기
             <svg
               class="ml-2 w-5 h-5 opacity-75 transform transition-transform duration-300 group-hover:translate-x-1 group-hover:opacity-100"
               fill="none"
