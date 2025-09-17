@@ -14,7 +14,7 @@
 
               const hash = this.hash;
               const target = document.querySelector(hash);
-              const offset = 80; // 네비게이션 바 높이 고려
+              const offset = 80;
 
               window.scrollTo({
                 top: target.offsetTop - offset,
@@ -63,7 +63,7 @@
               startCountUp(
                 h3,
                 parseInt(h3.id.replace("count", "")),
-                [37, 125, 1028]
+                [100, 160, 2000]
               );
               obs.unobserve(entry.target);
             }
