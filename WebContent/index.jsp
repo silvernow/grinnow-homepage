@@ -13,13 +13,48 @@
 		<meta property="og:image" content="https://www.grinnow.com/img/grinnow_thumbnail.png">
 		<meta property="og:url" content="https://www.grinnow.com">
 		<meta name="description" content="그린나우는 실시간 수목 시세 제공, 수목시세정보, 견적관리등의 업무지원 서비스를 제공하는 전문 플랫폼입니다.">
-		<meta name="keywords" content="조경수, 수목 중개, 수목 시세, 조경 관리, 그린나우">
+		<meta name="keywords" content="조경수, 수목 중개, 조경수 시세, 수목 시세, 조경 관리, 그린나우">
 		<meta name="author" content="그린나우">
-		<title>그린나우 | GRINNOW</title>
+		<meta name="naver-site-verification" content="faffe970ea09d5f81d14796648916ae3e0adc9dd" />
+		<meta name="robots" content="index, follow" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="그린나우 - 수목 시세 및 견적 관리 플랫폼" />
+		<meta name="twitter:description" content="실시간 수목 시세 제공, 견적 관리 등 조경 업무 지원 서비스" />
+		<meta name="twitter:image" content="https://www.grinnow.com/img/grinnow_thumbnail.png" />
+		<title>그린나우 - 실시간 수목 시세 및 조경수 견적 관리 플랫폼</title>
+		<link rel="canonical" href="https://www.grinnow.com/" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 		<link rel="stylesheet" href="/css/common.css"/>
 		<link rel="icon" href="/img/favicon-24x24.png" type="image/x-icon" />
 		<script src="https://cdn.tailwindcss.com"></script>
+		<script type="application/ld+json">
+		[
+  			{
+    			"@context": "https://schema.org",
+    			"@type": "WebSite",
+    			"url": "https://www.grinnow.com/",
+    			"name": "그린나우",
+    			"potentialAction": {
+      				"@type": "SearchAction",
+      				"target": "https://www.grinnow.com/search?q={search_term_string}",
+      				"query-input": "required name=search_term_string"
+    				}
+  				},
+  			{
+    		"@context": "https://schema.org",
+    		"@type": "Organization",
+    		"name": "그린나우",
+    		"url": "https://www.grinnow.com",
+    		"logo": "https://www.grinnow.com/img/logo.png",
+    		"contactPoint": {
+      				"@type": "ContactPoint",
+      				"telephone": "+82-70-7954-4845",
+      				"contactType": "Customer Support",
+      				"areaServed": "KR"
+    			}
+  			}
+		]
+		</script>
 	</head>
 	<body class="font-sans antialiased text-gray-800">
 		<script>
@@ -41,8 +76,8 @@
 		        <div class="flex justify-between h-20">
 		          	<div class="flex items-center">
 			            <div class="flex-shrink-0 flex gap-1 justify-end items-end">
-			                <img src="/img/logo.png" alt="로고" width="140px" />
-			                <h1 class="ml-1 text-xs text-primary">그린나우</h1>
+			                <img src="/img/logo.png" alt="그린나우 로고" width="140px" />
+			                <p class="ml-1 text-xs font-bold text-primary">그린나우</p>
 			            </div>
 		          	</div>
 		            <div class="hidden md:ml-6 md:flex md:items-center md:space-x-8 nav">
@@ -66,10 +101,11 @@
 		        <div class="lg:grid lg:grid-cols-12 lg:gap-8">
 		          	<div class="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center scroll-section">
 			            <div>
-			              	<h1 class="mb-2 text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">실거래 수목시세는</h1>
+			            	<h1 class="sr-only mb-2 ml-2 text-4xl tracking-tight text-gray-900 sm:text-sm" style="font-family:Pretendard-Regular, sans-serif;">실시간 조경수·수목 시세 플랫폼 | 그린나우</h1>
+			              	<span class="mb-2 text-4xl tracking-tight strong text-gray-900 sm:text-5xl md:text-6xl" style="font-family:Pretendard-ExtraBold, sans-serif;">실거래 수목시세는</span>
 				            <div class="flex gap-2">
-				                <h1 class="text-4xl tracking-tight font-extrabold text-primary sm:text-5xl md:text-6xl">그린나우</h1>
-				                <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">에서!</h1>
+				                <span class="text-4xl tracking-tight text-primary sm:text-5xl md:text-6xl" style="font-family:Pretendard-ExtraBold, sans-serif;">그린나우</span>
+				                <span class="text-4xl tracking-tight text-gray-900 sm:text-5xl md:text-6xl" style="font-family:Pretendard-ExtraBold, sans-serif;">에서!</span>
 				            </div>
 			              	<p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0">그린나우는 수목 실거래 및 견적 가격 데이터를 활용해 <br />정확하고 신뢰도 있는 수목 시세를 알려주는 시세 사이트 입니다.<br />그린나우를 통해 수목 구매 예산을 간편하게 확인하세요!</p>
 				            <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
@@ -82,7 +118,7 @@
 		          	</div>
 		          	<div class="mt-12 relative sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center scroll-section right">
 			        	<div class="relative mx-auto w-full border border-solid border-[#ededed] rounded-xl shadow-2xl shadow-[#d0ddf6] overflow-hidden screenshot">
-			                <img class="w-full" src="/img/v04.png" alt="그린나우 상세페이지" />
+			                <img class="w-full" src="/img/v04.png" alt="그린나우 수목 시세 상세 화면" />
 			            </div>
 		          	</div>
 		        </div>
