@@ -6,6 +6,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+		<meta name="naver-site-verification" content="faffe970ea09d5f81d14796648916ae3e0adc9dd" />
 		<meta property="og:type" content="website">
 		<meta property="og:title" content="그린나우 - 수목시세정보 및 업무지원 플랫폼">
 		<meta property="og:description" content="그린나우는 실시간 수목 시세 제공, 수목시세정보, 견적관리등의 업무지원 서비스를 제공하는 전문 플랫폼입니다.">
