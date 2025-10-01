@@ -102,12 +102,14 @@
 		          	<div class="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center scroll-section">
 			            <div>
 			            	<h1 class="sr-only mb-2 ml-2 text-4xl tracking-tight text-gray-900 sm:text-sm" style="font-family:Pretendard-Regular, sans-serif;">실시간 조경수·수목 시세 플랫폼 | 그린나우</h1>
-			                <span class="text-3xl tracking-tight text-primary sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">그린나우</span>
-			                <span class="text-3xl tracking-tight text-gray-900 sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">에서</span>
+			            	<span class="text-3xl tracking-tight text-primary sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">그린나우</span>
+			            	<span class="text-3xl tracking-tight text-gray-900 sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">는</span>
 				            <div class="flex gap-2">
-				              	<span class="mb-2 text-3xl tracking-tight strong text-gray-900 sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">무료로 시세를 확인하세요!</span>
+				              	<span class="mb-2 text-3xl tracking-tight strong text-gray-900 sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">지금 바로 무료 체험! 나중에는 프리미엄 구독으로 더 많은 혜택을 누리실 수 있습니다.</span>
 				            </div>
-			              	<p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0">그린나우는 수목 실거래 및 견적 데이터를 기반으로 <br />정확하고 신뢰도 있는 시세를 제공합니다.<br />모든 시세 확인은 무료로, 언제든 간편하게 이용하세요!</p>
+			              	<p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0">
+			              		그린나우는 수목 시세정보, 나만의 견적, 비대면 전자계약, 매물 정보까지<br /> 제공하는 무료 업무 시스템입니다. 누구나 편리하게 이용할 수 있으며, <br />전문성과 효율성을 동시에 갖춘 조경 비즈니스의 새로운 표준을 만나보세요
+			              	</p>
 				            <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
 			                	<div class="flex flex-col sm:flex-row gap-3 nav">
 				                  	<a href="https://app.grinnow.com" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-blue-700 md:py-4 md:text-lg md:px-8 transition-colors">시작하기</a>
