@@ -102,16 +102,16 @@
 		          	<div class="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left lg:flex lg:items-center scroll-section">
 			            <div>
 			            	<h1 class="sr-only mb-2 ml-2 text-4xl tracking-tight text-gray-900 sm:text-sm" style="font-family:Pretendard-Regular, sans-serif;">실시간 조경수·수목 시세 플랫폼 | 그린나우</h1>
-			              	<span class="mb-2 text-4xl tracking-tight strong text-gray-900 sm:text-5xl md:text-6xl" style="font-family:Pretendard-ExtraBold, sans-serif;">실거래 수목시세는</span>
+			                <span class="text-3xl tracking-tight text-primary sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">그린나우</span>
+			                <span class="text-3xl tracking-tight text-gray-900 sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">에서</span>
 				            <div class="flex gap-2">
-				                <span class="text-4xl tracking-tight text-primary sm:text-5xl md:text-6xl" style="font-family:Pretendard-ExtraBold, sans-serif;">그린나우</span>
-				                <span class="text-4xl tracking-tight text-gray-900 sm:text-5xl md:text-6xl" style="font-family:Pretendard-ExtraBold, sans-serif;">에서!</span>
+				              	<span class="mb-2 text-3xl tracking-tight strong text-gray-900 sm:text-4xl md:text-5xl" style="font-family:Pretendard-ExtraBold, sans-serif;">무료로 시세를 확인하세요!</span>
 				            </div>
-			              	<p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0">그린나우는 수목 실거래 및 견적 가격 데이터를 활용해 <br />정확하고 신뢰도 있는 수목 시세를 알려주는 시세 사이트 입니다.<br />그린나우를 통해 수목 구매 예산을 간편하게 확인하세요!</p>
+			              	<p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-base lg:mx-0">그린나우는 수목 실거래 및 견적 데이터를 기반으로 <br />정확하고 신뢰도 있는 시세를 제공합니다.<br />모든 시세 확인은 무료로, 언제든 간편하게 이용하세요!</p>
 				            <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
 			                	<div class="flex flex-col sm:flex-row gap-3 nav">
 				                  	<a href="https://app.grinnow.com" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-blue-700 md:py-4 md:text-lg md:px-8 transition-colors">시작하기</a>
-				                  	<a href="#features" class="w-full flex items-center justify-center px-8 py-3 border border-primary text-base font-medium rounded-md text-primary bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-8 transition-colors">기능 살펴보기</a>
+				                  	<a href="https://www.grintrader.com" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-primary text-base font-medium rounded-md text-primary bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-8 transition-colors">회사 홈페이지</a>
 				                </div>
 				            </div>
 			            </div>
