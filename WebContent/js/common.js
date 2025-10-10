@@ -63,7 +63,7 @@
               startCountUp(
                 h3,
                 parseInt(h3.id.replace("count", "")),
-                [100, 160, 2000]
+                [230, 160, 10000]
               );
               obs.unobserve(entry.target);
             }
