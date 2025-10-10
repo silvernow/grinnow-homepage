@@ -2,59 +2,88 @@
 <!doctype html>
 <html lang="ko">
 	<head>
-	    <meta charset="utf-8">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-		<meta name="naver-site-verification" content="faffe970ea09d5f81d14796648916ae3e0adc9dd" />
-		<meta property="og:type" content="website">
-		<meta property="og:title" content="그린나우 - 수목시세정보 및 업무지원 플랫폼">
-		<meta property="og:description" content="그린나우는 실시간 수목 시세 제공, 수목시세정보, 견적관리등의 업무지원 서비스를 제공하는 전문 플랫폼입니다.">
-		<meta property="og:image" content="https://www.grinnow.com/img/grinnow_thumbnail.png">
-		<meta property="og:url" content="https://www.grinnow.com">
-		<meta name="description" content="그린나우는 실시간 수목 시세 제공, 수목시세정보, 견적관리등의 업무지원 서비스를 제공하는 전문 플랫폼입니다.">
-		<meta name="keywords" content="조경수, 수목 중개, 조경수 시세, 수목 시세, 조경 관리, 그린나우">
-		<meta name="author" content="그린나우">
-		<meta name="naver-site-verification" content="faffe970ea09d5f81d14796648916ae3e0adc9dd" />
-		<meta name="robots" content="index, follow" />
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="그린나우 - 수목 시세 및 견적 관리 플랫폼" />
-		<meta name="twitter:description" content="실시간 수목 시세 제공, 견적 관리 등 조경 업무 지원 서비스" />
-		<meta name="twitter:image" content="https://www.grinnow.com/img/grinnow_thumbnail.png" />
-		<title>그린나우 - 실시간 수목 시세 및 조경수 견적 관리 플랫폼</title>
-		<link rel="canonical" href="https://www.grinnow.com/" />
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
-		<link rel="stylesheet" href="/css/common.css"/>
-		<link rel="icon" href="/img/favicon-24x24.png" type="image/x-icon" />
-		<script src="https://cdn.tailwindcss.com"></script>
-		<script type="application/ld+json">
-		[
-  			{
-    			"@context": "https://schema.org",
-    			"@type": "WebSite",
-    			"url": "https://www.grinnow.com/",
-    			"name": "그린나우",
-    			"potentialAction": {
-      				"@type": "SearchAction",
-      				"target": "https://www.grinnow.com/search?q={search_term_string}",
-      				"query-input": "required name=search_term_string"
-    				}
-  				},
-  			{
-    		"@context": "https://schema.org",
-    		"@type": "Organization",
-    		"name": "그린나우",
-    		"url": "https://www.grinnow.com",
-    		"logo": "https://www.grinnow.com/img/logo.png",
-    		"contactPoint": {
-      				"@type": "ContactPoint",
-      				"telephone": "+82-70-7954-4845",
-      				"contactType": "Customer Support",
-      				"areaServed": "KR"
-    			}
-  			}
-		]
-		</script>
+	  	<meta charset="utf-8">
+	  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	  	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	  	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	  
+	  	<meta name="naver-site-verification" content="faffe970ea09d5f81d14796648916ae3e0adc9dd" />
+	  
+	  	<meta property="og:type" content="website">
+	  	<meta property="og:title" content="그린나우 - 실시간 수목 시세 및 조경수 견적 관리 플랫폼">
+	  	<meta property="og:description" content="그린나우는 전국 조경수 시세와 나무 가격 정보를 실시간으로 제공하는 수목 거래 및 조경 업무 지원 플랫폼입니다. 왕벚나무, 느티나무, 소나무 등 다양한 수목의 시세를 확인하고 견적 관리까지 가능합니다.">
+	  	<meta property="og:image" content="https://www.grinnow.com/img/grinnow_thumbnail.png">
+	  	<meta property="og:url" content="https://www.grinnow.com">
+	  
+	  	<meta name="description" content="그린나우는 전국 조경수 시세와 나무 가격 정보를 실시간으로 제공하는 수목 거래 및 조경 업무 지원 플랫폼입니다. 왕벚나무, 느티나무, 소나무 등 다양한 수목의 시세를 확인하고 견적 관리까지 가능합니다.">
+	  	<meta name="keywords" content="조경수, 수목 시세, 조경수 시세, 조경수 가격, 조경수 가격표, 수목 시세, 수목 거래, 조경수 도매, 조경수 판매, 조경수 구매, 조경 관리, 수목가격정보, 조경수가격정보, 조경수 시세표, 나무 가격, 나무 시세표, 서울 조경수 시세, 부산 조경수 가격, 경기 조경수 시세, 전라도 조경수 가격, 왕벚나무 시세, 느티나무 시세, 소나무 시세, 이팝나무 시세, 조경수 시세 정보, 수목 시세 정보, 그린나우">
+	  
+	  	<meta name="author" content="그린나우">
+	  	<meta name="robots" content="index, follow" />
+	  
+	  	<meta name="twitter:card" content="summary_large_image" />
+	  	<meta name="twitter:title" content="그린나우 - 실시간 수목 시세 및 조경수 견적 관리 플랫폼" />
+	  	<meta name="twitter:description" content="전국 조경수 시세와 나무 가격 정보를 실시간으로 제공하는 조경 업무 지원 플랫폼, 그린나우" />
+	  	<meta name="twitter:image" content="https://www.grinnow.com/img/grinnow_thumbnail.png" />
+	  
+	  	<title>그린나우 - 실시간 수목 시세 및 조경수 견적 관리 플랫폼</title>
+	  	<link rel="canonical" href="https://www.grinnow.com/" />
+	  
+	  	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+	  	<link rel="stylesheet" href="/css/common.css"/>
+	  	<link rel="icon" href="/img/favicon-24x24.png" type="image/x-icon" />
+	  	<script src="https://cdn.tailwindcss.com"></script>
+	  
+	  	<script type="application/ld+json">
+  		[
+    		{
+      			"@context": "https://schema.org",
+      			"@type": "WebSite",
+      			"url": "https://www.grinnow.com/",
+      			"name": "그린나우",
+      			"potentialAction": {
+	        		"@type": "SearchAction",
+        			"target": "https://www.grinnow.com/search?q={search_term_string}",
+        			"query-input": "required name=search_term_string"
+      			}
+    		},
+    	{
+      		"@context": "https://schema.org",
+      		"@type": "Organization",
+      		"name": "그린나우",
+      		"url": "https://www.grinnow.com",
+      		"logo": "https://www.grinnow.com/img/logo.png",
+      		"contactPoint": {
+        		"@type": "ContactPoint",
+        		"telephone": "+82-70-7954-4845",
+        		"contactType": "Customer Support",
+        		"areaServed": "KR"
+      		}
+    	},
+    	{
+      		"@context": "https://schema.org",
+      		"@type": "FAQPage",
+      		"mainEntity": [
+        		{
+          			"@type": "Question",
+          			"name": "그린나우에서 수목 시세는 어떻게 확인하나요?",
+          			"acceptedAnswer": {
+            			"@type": "Answer",
+            			"text": "그린나우에서는 왕벚나무, 소나무, 느티나무 등 다양한 조경수의 실시간 시세를 무료로 조회할 수 있습니다."
+          			}
+        		},
+        		{
+          			"@type": "Question",
+          			"name": "수목 거래나 견적 관리도 가능한가요?",
+          			"acceptedAnswer": {
+           				"@type": "Answer",
+            			"text": "네, 회원가입 후 거래 견적 관리, 시세 분석 등의 기능을 사용할 수 있습니다."
+          			}
+        		}
+      		]
+    	}
+  	]
+	</script>
 	</head>
 	<body class="font-sans antialiased text-gray-800">
 		<script>
